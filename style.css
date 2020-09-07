@@ -30,3 +30,20 @@ body {
 input {
   width: 100px;
 }
+
+.copyright {
+  position: absolute;
+  color: #fff;
+  bottom: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 10px;
+  margin: 0;
+  font-size: 16px;
+}
+
+.copyright a {
+  text-decoration: none;
+  color: #0072fe;
+}
